@@ -97,6 +97,7 @@ public class GenerateGameSettings {
         InitialGameSettings settings = new InitialGameSettings();
         //here is my update : 
         //fadi
+        //new update
         defineSettings(settings);
         storeSettings(settings);
         testSettings();
